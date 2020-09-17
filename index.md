@@ -18,7 +18,7 @@
 ### Works
 -  [GitHub](https://github.com/Nkouhekikai)
 - つくった作品   
-  -[予定調整くん](https://gentle-fjord-96901.herokuapp.com/)
+  - [予定調整くん](https://gentle-fjord-96901.herokuapp.com/)
   
 # Contact
 - [Mail]（aoto_18n1100261@nnn.ed.jp）
