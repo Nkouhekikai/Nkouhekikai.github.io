@@ -11,7 +11,7 @@
 [リンク](https://gentle-fjord-96901.herokuapp.com/)
 
 ### skills
-- - OS（Windows,Ubuntu）
+- OS（Windows,Ubuntu）
 - Languages（JavaScript）
 - Engine,Frameworks (Node.js, Express)
 - Tool,MiddleWare（Git, PostgreSQL）
