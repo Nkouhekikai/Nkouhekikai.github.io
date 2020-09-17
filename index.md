@@ -7,4 +7,16 @@
 - 予定調整くん
 [リンク](https://gentle-fjord-96901.herokuapp.com/)
 
-### a
+### skills
+- - OS（Windows,Ubuntu）
+- Languages（JavaScript）
+- Engine,Frameworks (Node.js, Express)
+- Tool,MiddleWare（Git, PostgreSQL）
+
+### Works
+-  [GitHub](https://github.com/Nkouhekikai)
+- つくった作品 
+  -[予定調整くん](https://gentle-fjord-96901.herokuapp.com/)
+  
+# Contact
+- [Mail]（aoto_18n1100261@nnn.ed.jp）
