@@ -20,6 +20,7 @@ N予備校でプログラミングを勉強しています
 -  [GitHub](https://github.com/Nkouhekikai)
 - つくった作品   
   - [予定調整くん](https://gentle-fjord-96901.herokuapp.com/)
+  - [あなたのいいところ診断](https://nkouhekikai.github.io/assessment/11_22.html)
   
 # Contact
 - [Mail]（aoto_18n1100261@nnn.ed.jp）
