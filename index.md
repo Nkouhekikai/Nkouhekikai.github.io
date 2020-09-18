@@ -3,6 +3,7 @@
 <iframe src="https://www.openprocessing.org/sketch/964110/embed/" width="400" height="300"></iframe>
 
 # About
+N予備校でプログラミングを勉強しています  
 ゲームが大好きです
 
 ## Profile
